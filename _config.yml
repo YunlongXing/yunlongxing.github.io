@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Yunlong Xing"
   avatar           : "images/ry_profile.jpeg"
-  bio              : ""
+  bio              : 
   location         : "Fairfax, VA"
   employer         :
   pubmed           : 
@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
-  dblp             : ""
+  linkedin         : 
+  dblp             :
   orcid            : "https://orcid.org/0000-0002-3844-2467"
   pinterest        :
   soundcloud       :
