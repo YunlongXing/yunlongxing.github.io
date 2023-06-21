@@ -1,5 +1,12 @@
 
 # 📝 Publications 
+
+- ``USENIX Security 2023`` **Cross Container Attacks: The Bewildered eBPF on Clouds** [pdf]  
+Yi He\*, Roland Guo\*, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu, and Qi Li.  
+*In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, 2023*.
+<span style="color:red">(Oral Presentation)</span>
+
+
 ## 🎙 Speech Synthesis
 
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
