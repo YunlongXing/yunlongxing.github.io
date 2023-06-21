@@ -24,11 +24,11 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, and Shengye Wan.  
 *Future Generation Computer Systems (FGCS), 2022*.  
 
-- **Container Security Protection Based on System Call Restriction** [\[link\]](https://doi.org/10.14188/j.1671-8836.2021.0049)  
+- **Container Security Protection Based on System Call Restriction** [\[pdf\]](https://doi.org/10.14188/j.1671-8836.2021.0049)  
 **Yunlong Xing**, Fei Yan, Yanxiao Liu, and Liqiang Zhang.  
 *Journal of Wuhan Univeristy (Natural Science Edition), 2021 (in Chinese)*.  
 
-- ``CTCIS 2017`` **Research on Cryptographic Algorithm Recognition Based on Behavior Analysis** [\[link\]](https://doi.org/10.1007/978-981-10-7080-8_25)  
+- ``CTCIS 2017`` **Research on Cryptographic Algorithm Recognition Based on Behavior Analysis** [\[pdf\]](https://doi.org/10.1007/978-981-10-7080-8_25)  
 Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.  
 *Chinese Conference on Trusted Computing and Information Security (CTCIS), Wuhan, China, 2017*.  
 
