@@ -13,7 +13,7 @@ Yi He\*, Roland Guo\*, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu,
 
 - ``ICSME 2023`` **Exploring Security Commits in Python** [pdf]  
 Shiyu Sun, Shu Wang, Xinda Wang, **Yunlong Xing**, Elisa Zhang, and Kun Sun.  
-*IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogota, Colombia, 2023*.  
+*IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogotá, Colombia, 2023*.  
 
 - ``CNS 2022`` **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images** [\[pdf\]](/publications/cns22_SysCap.pdf)  
 **Yunlong Xing**, Jiahao Cao, Xinda Wang, Sadegh Torabi, Kun Sun, Fei Yan, and Qi Li.  
