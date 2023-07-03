@@ -32,7 +32,7 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 **Yunlong Xing**, Fei Yan, Yanxiao Liu, and Liqiang Zhang.  
 *Journal of Wuhan Univeristy (Natural Science Edition), 2021 (in Chinese)*.  
 
-- ``CTCIS 2017`` **Research on Cryptographic Algorithm Recognition Based on Behavior Analysis** [\[pdf\]](https://doi.org/10.1007/978-981-10-7080-8_25)  
-Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.  
-*Chinese Conference on Trusted Computing and Information Security (CTCIS), Wuhan, China, 2017*.  
+- ``CTCIS 2017`` **Research on Cryptographic Algorithm Recognition Based on Behavior Analysis** [\[pdf\]](https://doi.org/10.1007/978-981-10-7080-8_25)<br>
+Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
+*Chinese Conference on Trusted Computing and Information Security (CTCIS), Wuhan, China, 2017*.
 
