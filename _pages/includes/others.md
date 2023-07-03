@@ -1,6 +1,6 @@
 
 # 🧑‍🎨 Academic Services
-- **Conference Reviewers:**
+- **Conference Reviewers**
   - IEEE Military Communications Conference (**MILCOM**) (2023)
-- **Journal Reviewers:**
+- **Journal Reviewers**
   - Computers & Security (2023)
