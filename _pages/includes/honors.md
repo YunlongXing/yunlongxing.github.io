@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2023.07:* USENIX Security 2023 Student Travel Grant
-- *2017.09:* Second Class Academic Scholarship in Wuhan University
-- *2017.07:* First Prize in 10th China's National College Student Information Security Contest
-- *2016.12:* Third Prize in China's National University Mobile Internet Application Innovation Contest
+- USENIX Security Student Travel Grant (2023)
+- First Prize in 10th China's National College Student Information Security Contest (2017)
+- Second Class Academic Scholarship in Wuhan University (2017)
+- Third Prize in China's National University Mobile Internet Application Innovation Contest (2016)
