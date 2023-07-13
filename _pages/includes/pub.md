@@ -1,4 +1,4 @@
-<h2><span class="puwcIf C9DxTc " style="color: #377352; font-variant: normal; vertical-align: baseline;">Publications</span></h2>
+<h1><span class="puwcIf C9DxTc " style="color: #377352; font-variant: normal; vertical-align: baseline;">Publications</span></h1>
 
 # 📝 Publications 
 
