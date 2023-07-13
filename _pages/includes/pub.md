@@ -1,3 +1,4 @@
+<span class="puwcIf C9DxTc " style="color: #377352; font-variant: normal; vertical-align: baseline;">Publications</span>
 
 # 📝 Publications 
 
