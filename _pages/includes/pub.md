@@ -1,5 +1,3 @@
-<h1><span class="puwcIf C9DxTc " style="color: #377352; font-variant: normal; vertical-align: baseline;">Publications</span></h1>
-
 # 📝 Publications 
 
 - ``USENIX Security 2023`` **Cross Container Attacks: The Bewildered eBPF on Clouds** [pdf]<br>
