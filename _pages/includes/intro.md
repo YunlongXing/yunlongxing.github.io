@@ -7,5 +7,5 @@ Before that, I received a Master's Degree in Engineering in July 2021 at [Wuhan 
 [Center for Secure Information Systems (CSIS)]: https://csis.gmu.edu/
 [George Mason University]: https://www2.gmu.edu/
 [Dr. Kun Sun]: https://csis.gmu.edu/ksun/
-[Dr. Fei Yan]: https://cse.whu.edu.cn/info/1256/3273.htm
+[Dr. Fei Yan]: https://cse.whu.edu.cn/info/1255/4671.htm
 [Wuhan University]: https://en.whu.edu.cn/
