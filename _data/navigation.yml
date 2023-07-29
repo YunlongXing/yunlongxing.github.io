@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
     
   - title: "Presentations"
-    url: "/#-talks-and-presentations"
+    url: "/#talks-and-presentations"
 
   - title: "Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Services"
-    url: "/#-academic-services"
+    url: "/#academic-services"
