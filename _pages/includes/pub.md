@@ -39,5 +39,5 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 # Talks & Presentations
 
 
-- SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images<br>
-IEEE Conference on Communications and Network Security (CNS), Austin, TX, October 4, 2022.
+- **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images**<br>
+*IEEE Conference on Communications and Network Security (CNS), Austin, TX, October 4, 2022*.
