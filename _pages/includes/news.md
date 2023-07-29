@@ -1,7 +1,9 @@
-# 🔥 News
-- *2023.06:* 🎉 One paper was accepted by ICSME 2023!
-- *2023.05:* 🎉 One paper was accepted by USENIX Security 2023!
-- *2023.04:* 🎉 One paper was accepted by TDSC 2023!
-- *2022.08:* 🎉 One paper was accepted by CNS 2022!
-- *2022.08:* 🎉 One paper was accepted by RAID 2022!
-- *2022.04:* 🎉 One paper was accepted by FGCS 2022!
+# Talks and Presentations
+- **Cross Container Attacks: The Bewildered eBPF on Clouds**<br>
+*In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023*.
+
+- **Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation**<br>
+*In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023*.
+
+- **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images**<br>
+*IEEE Conference on Communications and Network Security (CNS), Austin, TX, October 2022*.
