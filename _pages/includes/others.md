@@ -1,6 +1,6 @@
 
 # Academic Services
-- **Artifacts Evaluation Program committee**
+- **Artifacts Evaluation Program Committee**
   - Annual Computer Security Applications Conference (**ACSAC**) (2023)
 - **Conference Reviewer**
   - IEEE International Conference on Computer Communications (**INFOCOM**) (2024) 
