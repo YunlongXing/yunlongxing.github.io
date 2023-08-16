@@ -1,7 +1,9 @@
 
 # Academic Services
-- **Conference Reviewers**
+- **Artifacts Evaluation Program committee**
+  - Annual Computer Security Applications Conference (ACSAC) (2023)
+- **Conference Reviewer**
   - IEEE International Conference on Computer Communications (INFOCOM) (2024) 
   - IEEE Military Communications Conference (MILCOM) (2023)
-- **Journal Reviewers**
+- **Journal Reviewer**
   - Computers & Security (2023)
