@@ -10,7 +10,7 @@ Yi He\*, Roland Guo\*, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu,
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
 \(\*equal contribution\)
 
-- ``ICSME 2023`` **Exploring Security Commits in Python** [pdf]<br>
+- ``ICSME 2023`` **Exploring Security Commits in Python** [\[pdf\]](/publications/icsme23_SCOPY.pdf)<br>
 Shiyu Sun, Shu Wang, Xinda Wang, **Yunlong Xing**, Elisa Zhang, and Kun Sun.<br>
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogotá, Colombia, 2023*.  
 
