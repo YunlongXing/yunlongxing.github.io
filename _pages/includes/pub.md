@@ -27,7 +27,7 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, and Shengye Wan.<br>
 *Future Generation Computer Systems (FGCS), 2022*.  
 
-- **Container Security Protection Based on System Call Restriction** [\[pdf\]](https://doi.org/10.14188/j.1671-8836.2021.0049)<br>
+- **Container Security Protection Scheme Based on System Call Restriction** [\[pdf\]](https://doi.org/10.14188/j.1671-8836.2021.0049)<br>
 **Yunlong Xing**, Fei Yan, Yanxiao Liu, and Liqiang Zhang.<br>
 *Journal of Wuhan Univeristy (Natural Science Edition), 2021 (in Chinese)*.  
 
