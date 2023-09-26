@@ -1,4 +1,7 @@
 # Publications 
+- ``USENIX Security 2024`` **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [pdf]<br>
+**Yunlong Xing**, Shu Wang, Shiyu Sun, Xu He, Kun Sun, and Qi Li.<br>
+*In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, 2024*.<br>
 
 - ``USENIX Security 2023`` **Cross Container Attacks: The Bewildered eBPF on Clouds** [\[pdf\]](/publications/security23_container.pdf)<br>
 Yi He\*, Roland Guo\*, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu, and Qi Li.<br>
