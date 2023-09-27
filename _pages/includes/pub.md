@@ -22,7 +22,7 @@ Shiyu Sun, Shu Wang, Xinda Wang, **Yunlong Xing**, Elisa Zhang, and Kun Sun.<br>
 - ``CNS 2022`` **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images** [\[pdf\]](/publications/cns22_SysCap.pdf)<br>
 **Yunlong Xing**, Jiahao Cao, Xinda Wang, Sadegh Torabi, Kun Sun, Fei Yan, and Qi Li.<br>
 *IEEE Conference on Communications and Network Security (CNS), Austin, TX, 2022*.<br>
-<span style="color:red">(Oral Presentation)</span>
+(Acceptance Rate: 43/122 = 35.2%)
 
 - ``RAID 2022`` **BinProv: Binary Code Provenance Identification without Disassembly** [\[pdf\]](/publications/raid22_BinProv.pdf)<br>
 Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun.<br>
