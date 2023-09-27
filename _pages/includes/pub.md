@@ -16,7 +16,7 @@ Yi He\*, Roland Guo\*, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu,
 
 - ``ICSME 2023`` **Exploring Security Commits in Python** [\[pdf\]](/publications/icsme23_SCOPY.pdf)<br>
 Shiyu Sun, Shu Wang, Xinda Wang, **Yunlong Xing**, Elisa Zhang, and Kun Sun.<br>
-*IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogotá, Colombia, 2023*.<be>
+*IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogotá, Colombia, 2023*.<br>
 (Acceptance Rate: 27/119 = 22.7%)
 
 - ``CNS 2022`` **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images** [\[pdf\]](/publications/cns22_SysCap.pdf)<br>
