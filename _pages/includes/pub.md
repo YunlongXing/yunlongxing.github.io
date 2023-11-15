@@ -1,5 +1,5 @@
 # Publications 
-- ``USENIX Security 2024`` **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[paper\]])(https://www.usenix.org/conference/usenixsecurity24/presentation/xing)<br>
+- ``USENIX Security 2024`` **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[paper\]](https://www.usenix.org/conference/usenixsecurity24/presentation/xing)<br>
 **Yunlong Xing**, Shu Wang, Shiyu Sun, Xu He, Kun Sun, and Qi Li.<br>
 *In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, 2024*.<br>
 (Acceptance Rate - Summer Review Cycle: 98/515 = 19.0%)
