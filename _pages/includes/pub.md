@@ -7,7 +7,7 @@
 - ``USENIX Security 2023`` **Cross Container Attacks: The Bewildered eBPF on Clouds** [\[paper\]](/publications/security23_container.pdf)<br>
 Yi He\*, Roland Guo\*, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu, and Qi Li.<br>
 *In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, 2023*.<br>
-(Acceptance Rate - Fall Review Cycle: 185/569 = 32.5%)
+(Acceptance Rate - Fall Review Cycle: 155/531 = 29.2%)
 
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](https://ieeexplore.ieee.org/document/10105304)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
@@ -21,8 +21,7 @@ Shiyu Sun, Shu Wang, Xinda Wang, **Yunlong Xing**, Elisa Zhang, and Kun Sun.<br>
 
 - ``CNS 2022`` **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images** [\[paper\]](/publications/cns22_SysCap.pdf)<br>
 **Yunlong Xing**, Jiahao Cao, Xinda Wang, Sadegh Torabi, Kun Sun, Fei Yan, and Qi Li.<br>
-*IEEE Conference on Communications and Network Security (CNS), Austin, TX, 2022*.<br>
-(Acceptance Rate: 43/122 = 35.2%)
+*IEEE Conference on Communications and Network Security (CNS), Austin, TX, 2022*.
 
 - ``RAID 2022`` **BinProv: Binary Code Provenance Identification without Disassembly** [\[paper\]](/publications/raid22_BinProv.pdf)<br>
 Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun.<br>
