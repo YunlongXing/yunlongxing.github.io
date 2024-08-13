@@ -3,5 +3,5 @@ My name is Yunlong Xing. I am currently a Ph.D. student in the [Center for Secur
 [Center for Secure Information Systems (CSIS)]: https://csis.gmu.edu/
 [George Mason University]: https://www2.gmu.edu/
 [Dr. Kun Sun]: https://csis.gmu.edu/ksun/
-[Dr. Fei Yan]: https://cse.whu.edu.cn/info/1255/4671.htm
+[Dr. Fei Yan]: https://cse.whu.edu.cn/info/1098/24491.htm
 [Wuhan University]: https://en.whu.edu.cn/
