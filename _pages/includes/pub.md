@@ -43,6 +43,10 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 *Journal of Wuhan Univerisity (Natural Science Edition), 2021 (in Chinese)*.  
 
 ### Posters
+- ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** <br>
+Elisa Zhang, Shiyu Sun, **Yunlong Xing**, and Kun Sun. <br>
+*ACM Conference on Computer and Communications Security (CCS), Salt Lake City, UT, 2024.*
+
 - ``TAPIA 2024`` **DISPATCH: Entangled Security Patch Unravelment in Open-Source Software** <br>
 Shiyu Sun, **Yunlong Xing**, Xinda Wang, and Kun Sun. <br>
 *CMD-IT/ACM Richard Tapia Conference, San Diego, CA, 2024*.
