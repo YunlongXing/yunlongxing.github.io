@@ -7,4 +7,5 @@
   - IEEE Military Communications Conference (**MILCOM**) (2023)
 - **Journal Reviewer**
   - IEEE Transactions on Information Forensics & Security (**TIFS**) (2024)
+  - ACM Transactions on Privacy and Security (**TOPS**) (2024)
   - Computers & Security (2023/2024)
