@@ -11,5 +11,5 @@
   - Computers & Security (2023/2024)
 - **External Reviewer**
   - Network and Distributed System Security Symposium (**NDSS**) (2024)
-  - Annual Computer Security Applications Conference (**ACSAC**) (2023)
+  - Annual Computer Security Applications Conference (**ACSAC**) (2019/2023)
   - IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) (2020)
