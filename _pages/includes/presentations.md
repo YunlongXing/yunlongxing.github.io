@@ -1,7 +1,7 @@
 # Talks and Presentations
 - **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[slides\]](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-yunlong)<br>
 *In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, August 2024*.<br>
-*In 21st NYU CSAW Applied Research Competition, New York, NY, November 2024.*
+*In 21st NYU CSAW Applied Research Competition, Brooklyn, NY, November 2024.*
 
 - **Cross Container Attacks: The Bewildered eBPF on Clouds** [\[slides\]](https://www.usenix.org/system/files/sec23_slides_he.pdf)<br>
 *In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023*.
