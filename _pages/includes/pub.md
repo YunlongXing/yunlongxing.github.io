@@ -45,7 +45,7 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 *Journal of Wuhan Univerisity (Natural Science Edition), 2021 (in Chinese)*.  
 
 ### Posters
-- ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** <br>
+- ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** [\[paper\]](https://dl.acm.org/doi/10.1145/3658644.3691412)<br>
 Elisa Zhang, Shiyu Sun, **Yunlong Xing**, and Kun Sun. <br>
 *ACM Conference on Computer and Communications Security (CCS), Salt Lake City, UT, 2024.*
 
