@@ -1,5 +1,10 @@
 # Publications 
 ### Conference Papers
+- ``USENIX Security 2025`` **DISPATCH: Unraveling Security Patches from Entangled Code Changes** \[paper\] <br>
+Shiyu Sun\*, **Yunlong Xing\***, Xinda Wang, Shu Wang, Qi Li, and Kun Sun.<br>
+*In 34th USENIX Security Symposium (USENIX Security), Seattle, WA, 2025*.<br>
+\(\* indicates equal contribution\)
+
 - ``USENIX Security 2024`` **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[paper\]](/publications/security24_CONCH.pdf)<br>
 **Yunlong Xing**, Shu Wang, Shiyu Sun, Xu He, Kun Sun, and Qi Li.<br>
 *In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, 2024*.<br>
@@ -33,7 +38,7 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](https://ieeexplore.ieee.org/document/10105304)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
-\(\*equal contribution\) \(Impact Factor: 7 as 2023\)
+\(\* indicates equal contribution\) \(Impact Factor: 7 as 2023\)
 
 - ``FGCS 2022`` **The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp** [\[paper\]](/publications/fgcs22_Syscall.pdf)<br>
 **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, and Shengye Wan.<br>
