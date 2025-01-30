@@ -13,8 +13,7 @@ Shiyu Sun\*, **Yunlong Xing\***, Xinda Wang, Shu Wang, Qi Li, and Kun Sun.<br>
 
 - ``USENIX Security 2023`` **Cross Container Attacks: The Bewildered eBPF on Clouds** [\[paper\]](/publications/security23_container.pdf)<br>
 Yi He\*, Roland Guo\*, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu, and Qi Li.<br>
-*In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, 2023*.<br>
-(Acceptance Rate - Fall Review Cycle: 155/531 = 29.2%)
+*In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, 2023*.
 
 - ``ICSME 2023`` **Exploring Security Commits in Python** [\[paper\]](/publications/icsme23_SCOPY.pdf)<br>
 Shiyu Sun, Shu Wang, Xinda Wang, **Yunlong Xing**, Elisa Zhang, and Kun Sun.<br>
