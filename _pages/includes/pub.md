@@ -1,9 +1,5 @@
 # Publications 
 ### Conference Papers
-- ``USENIX Security 2025`` **DISPATCH: Unraveling Security Patches from Entangled Code Changes** \[paper\] <br>
-Shiyu Sun\*, **Yunlong Xing\***, Xinda Wang, Shu Wang, Qi Li, and Kun Sun.<br>
-*In 34th USENIX Security Symposium (USENIX Security), Seattle, WA, 2025*.<br>
-\(\* indicates equal contribution\)
 
 - ``USENIX Security 2024`` **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[paper\]](/publications/security24_CONCH.pdf)<br>
 **Yunlong Xing**, Shu Wang, Shiyu Sun, Xu He, Kun Sun, and Qi Li.<br>
