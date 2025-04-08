@@ -2,7 +2,7 @@
 ### Conference Papers
 - ``DIMVA 2025`` **An Empirical Study of Multi-Language Security Patches in Open Source Software** \[paper\]<br>
 Shiyu Sun, **Yunlong Xing**, Grant Zou, Xinda Wang, and Kun Sun.<br>
-*In 22nd Conference on Detection of Intrusions and Malware \& Vulnerability Assessment (DIMVA), Austria, 2025*.
+*In 22nd Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), Austria, 2025*.
 
 - ``USENIX Security 2024`` **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[paper\]](/publications/security24_CONCH.pdf)<br>
 **Yunlong Xing**, Shu Wang, Shiyu Sun, Xu He, Kun Sun, and Qi Li.<br>
