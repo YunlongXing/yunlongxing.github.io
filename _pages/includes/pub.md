@@ -1,5 +1,10 @@
 # Publications 
 ### Conference Papers
+- ``USENIX Security 2025`` **DISPATCH: Unraveling Security Patches from Entangled Code Changes** \[paper\]<br>
+Shiyu Sun\*, **Yunlong Xing\***, Xinda Wang, Shu Wang, Qi Li, and Kun Sun. <br>
+*In 34th USENIX Security Symposium (USENIX Security), Seattle, WA, 2025*.<br>
+\(\* indicates equal contribution\)
+
 - ``DIMVA 2025`` **An Empirical Study of Multi-Language Security Patches in Open Source Software** \[paper\]<br>
 Shiyu Sun, **Yunlong Xing**, Grant Zou, Xinda Wang, and Kun Sun.<br>
 *In 22nd Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), Austria, 2025*.
