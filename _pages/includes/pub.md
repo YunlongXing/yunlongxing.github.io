@@ -1,6 +1,6 @@
 # Publications 
 ### Conference Papers
-- ``USENIX Security 2025`` **DISPATCH: Unraveling Security Patches from Entangled Code Changes** \[paper\]<br>
+- ``USENIX Security 2025`` **DISPATCH: Unraveling Security Patches from Entangled Code Changes** [\[paper\]](/publications/security25_DISPATCH.pdf)<br>
 Shiyu Sun\*, **Yunlong Xing\***, Xinda Wang, Shu Wang, Qi Li, and Kun Sun. <br>
 *In 34th USENIX Security Symposium (USENIX Security), Seattle, WA, 2025*.<br>
 \(\* indicates equal contribution\)
