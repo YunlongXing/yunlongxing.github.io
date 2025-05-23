@@ -52,7 +52,7 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 
 - **Container Security Protection Scheme Based on System Call Restriction** [\[paper\]](https://doi.org/10.14188/j.1671-8836.2021.0049)<br>
 **Yunlong Xing**, Fei Yan, Yanxiao Liu, and Liqiang Zhang.<br>
-*Journal of Wuhan Univerisity (Natural Science Edition), 2021 (in Chinese)*.  
+*Journal of Wuhan University (Natural Science Edition), 2021 (in Chinese)*.  
 
 ### Posters
 - ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** [\[paper\]](https://dl.acm.org/doi/10.1145/3658644.3691412)<br>
