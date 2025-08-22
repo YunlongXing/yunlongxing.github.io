@@ -3,7 +3,7 @@
 - **Artifacts Evaluation Committee**
   - Annual Computer Security Applications Conference (**ACSAC**) (2023/2024)
 - **Conference Reviewer**
-  - IEEE International Conference on Computer Communications (**INFOCOM**) (2024/2025) 
+  - IEEE International Conference on Computer Communications (**INFOCOM**) (2024/2025/2026) 
   - IEEE Military Communications Conference (**MILCOM**) (2023/2025)
 - **Journal Reviewer**
   - IEEE Transactions on Dependable and Secure Computing (**TDSC**) (2025)
