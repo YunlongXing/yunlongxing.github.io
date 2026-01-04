@@ -10,7 +10,7 @@
   - IEEE Transactions on Information Forensics & Security (**TIFS**) (2024/2025)
   - ACM Transactions on Privacy and Security (**TOPS**) (2024)
   - Computers & Security (2023/2024/2025)
-  - Discrete Mathematics, Algorithms and Applications (**DMAA**) (2025)
+  - Discrete Mathematics, Algorithms and Applications (**DMAA**) (2025/2026)
 - **External Reviewer**
   - IEEE Symposium on Security and Privacy (**S&P**) (2025)
   - Network and Distributed System Security Symposium (**NDSS**) (2024)
