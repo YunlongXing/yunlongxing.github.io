@@ -6,7 +6,7 @@
   - IEEE International Conference on Computer Communications (**INFOCOM**) (2024/2025/2026) 
   - IEEE Military Communications Conference (**MILCOM**) (2023/2025)
 - **Journal Reviewer**
-  - IEEE Transactions on Dependable and Secure Computing (**TDSC**) (2025)
+  - IEEE Transactions on Dependable and Secure Computing (**TDSC**) ([2025](/images/tdsc25_certificate.pdf))
   - IEEE Transactions on Information Forensics & Security (**TIFS**) (2024/2025/2026)
   - ACM Transactions on Privacy and Security (**TOPS**) (2024)
   - Computers & Security (2023/2024/2025)
