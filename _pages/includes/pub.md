@@ -1,5 +1,9 @@
 # Publications 
 ### Conference Papers
+- ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [paper]<br>
+Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Therese Schachner, and Zhiheng Tao. <br>
+*In 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026*.
+
 - ``USENIX Security 2025`` **DISPATCH: Unraveling Security Patches from Entangled Code Changes** [\[paper\]](/publications/security25_DISPATCH.pdf)<br>
 Shiyu Sun\*, **Yunlong Xing\***, Xinda Wang, Shu Wang, Qi Li, and Kun Sun. <br>
 *In 34th USENIX Security Symposium (USENIX Security), Seattle, WA, 2025*.<br>
