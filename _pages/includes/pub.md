@@ -1,5 +1,5 @@
 # Selected Publications
-## Conference Papers
+### Conference Papers
 - ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [paper]<br>
 Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Therese Schachner, and Zhiheng Tao. <br>
 *In 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026*.
@@ -39,7 +39,7 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 *International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Limassol, Cyprus, 2022*.<br>
 (Acceptance Rate: 35/139 = 25.2%)
 
-## Journal Papers
+### Journal Papers
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](https://ieeexplore.ieee.org/document/10105304)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
