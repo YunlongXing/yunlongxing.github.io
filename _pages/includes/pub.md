@@ -1,5 +1,4 @@
-# Selected Publications 
-[\[Full Publications\]](https://scholar.google.com/citations?user=H9E5GxsAAAAJ&hl=en)
+# Selected Publications [\[Full Publications\]](https://scholar.google.com/citations?user=H9E5GxsAAAAJ&hl=en)
 ## Conference Papers
 - ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [paper]<br>
 Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Therese Schachner, and Zhiheng Tao. <br>
@@ -59,12 +58,12 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 **Yunlong Xing**, Fei Yan, Yanxiao Liu, and Liqiang Zhang.<br>
 *Journal of Wuhan University (Natural Science Edition), 2021 (in Chinese)*.  
 
-## Posters
-- ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** [\[paper\]](https://dl.acm.org/doi/10.1145/3658644.3691412)<br>
-Elisa Zhang, Shiyu Sun, **Yunlong Xing**, and Kun Sun. <br>
-*ACM Conference on Computer and Communications Security (CCS), Salt Lake City, UT, 2024.*
 
-- ``TAPIA 2024`` **DISPATCH: Entangled Security Patch Unravelment in Open-Source Software** <br>
-Shiyu Sun, **Yunlong Xing**, Xinda Wang, and Kun Sun. <br>
-*CMD-IT/ACM Richard Tapia Conference, San Diego, CA, 2024*.
+// ## Posters
+// - ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** [\[paper\]](https://dl.acm.org/doi/10.1145/3658644.3691412)<br>
+// Elisa Zhang, Shiyu Sun, **Yunlong Xing**, and Kun Sun. <br>
+// *ACM Conference on Computer and Communications Security (CCS), Salt Lake City, UT, 2024.*
 
+// - ``TAPIA 2024`` **DISPATCH: Entangled Security Patch Unravelment in Open-Source Software** <br>
+// Shiyu Sun, **Yunlong Xing**, Xinda Wang, and Kun Sun. <br>
+// *CMD-IT/ACM Richard Tapia Conference, San Diego, CA, 2024*.
