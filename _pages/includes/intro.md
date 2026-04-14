@@ -1,10 +1,8 @@
-I will join Michigan Technological University as a tenure-track Assistant Professor in August 2026. I received my Ph.D. in Information Technology from [George Mason University][George Mason University], where I was advised by [Dr. Kun Sun][Dr. Kun Sun].  
-Before that, I earned my M.Eng. in Cyberspace Security (2021) and B.Eng. in Information Security (2018) from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan].  
-My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Container Security, and the use of Large Language Models (LLMs) for Security.
+I will join [Michigan Technological University][Michigan Technological University] as a tenure-track Assistant Professor in August 2026. I received my Ph.D. in Information Technology (2026) from [George Mason University][George Mason University], where I was advised by [Dr. Kun Sun][Dr. Kun Sun]. Before that, I earned my M.Eng. in Cyberspace Security (2021) and B.Eng. in Information Security (2018) from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan]. My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Container Security, and the use of Large Language Models (LLMs) for Security.
 
 <span style="color:red">I am currently looking for highly motivated Ph.D. students to join my research group. Positions are fully funded through research assistantships (RAs), covering tuition and providing a competitive stipend. If you are interested, please feel free to email me your CV and transcript.</span>
 
-
+[Michigan Technological University]: https://www.mtu.edu/
 [George Mason University]: https://www2.gmu.edu/
 [Dr. Kun Sun]: https://csis.gmu.edu/ksun/
 [Dr. Fei Yan]: https://cse.whu.edu.cn/info/3301/37361.htm
