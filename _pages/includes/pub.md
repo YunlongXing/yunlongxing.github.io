@@ -1,5 +1,6 @@
-# Publications 
-### Conference Papers
+# Selected Publications 
+[\[Full Publications\]](https://scholar.google.com/citations?user=H9E5GxsAAAAJ&hl=en)
+## Conference Papers
 - ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [paper]<br>
 Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Therese Schachner, and Zhiheng Tao. <br>
 *In 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026*.
@@ -43,7 +44,7 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 *Chinese Conference on Trusted Computing and Information Security (CTCIS), Wuhan, China, 2017*.
 
-### Journal Papers
+## Journal Papers
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](https://ieeexplore.ieee.org/document/10105304)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
@@ -58,7 +59,7 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 **Yunlong Xing**, Fei Yan, Yanxiao Liu, and Liqiang Zhang.<br>
 *Journal of Wuhan University (Natural Science Edition), 2021 (in Chinese)*.  
 
-### Posters
+## Posters
 - ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** [\[paper\]](https://dl.acm.org/doi/10.1145/3658644.3691412)<br>
 Elisa Zhang, Shiyu Sun, **Yunlong Xing**, and Kun Sun. <br>
 *ACM Conference on Computer and Communications Security (CCS), Salt Lake City, UT, 2024.*
