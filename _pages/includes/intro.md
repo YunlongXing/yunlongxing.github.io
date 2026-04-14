@@ -9,14 +9,14 @@ I will join [Michigan Technological University][Michigan Technological Universit
 [Wuhan University]: https://en.whu.edu.cn/
 
 # <span style="color:orange">What's New</span>
-- [**SecureComm 2026**] In March 2026, one paper about container privilege configuration was accepted by SecureComm 2026.
++ [**SecureComm 2026**] In March 2026, one paper about container privilege configuration was accepted by SecureComm 2026.
 
-- [**DIMVA 2025**] In April 2025, one paper about multi-language security patch analysis was accepted by DIMVA 2025.
++ [**DIMVA 2025**] In April 2025, one paper about multi-language security patch analysis was accepted by DIMVA 2025.
 
-- [**Summer Research Assistantship 2025**] In March 2025, the Summer Research Assistantship of George Mason University was awarded.
++ [**Summer Research Assistantship 2025**] In March 2025, the Summer Research Assistantship of George Mason University was awarded.
 
-- [**USENIX Security 2025**] In February 2025, one paper about security patch unraveling was accepted by USENIX Security 2025.
++ [**USENIX Security 2025**] In February 2025, one paper about security patch unraveling was accepted by USENIX Security 2025.
 
-- [**CSAW 2024**] In October 2024, the paper about context-aware patch generation was selected as one of the 15 finalists of the CSAW 2024 ARC.
++ [**CSAW 2024**] In October 2024, the paper about context-aware patch generation was selected as one of the 15 finalists of the CSAW 2024 ARC.
 
-- [**USENIX Security 2024**] In September 2023, one paper about context-aware patch generation was accepted by USENIX Security 2024.
++ [**USENIX Security 2024**] In September 2023, one paper about context-aware patch generation was accepted by USENIX Security 2024.
