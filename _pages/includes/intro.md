@@ -1,8 +1,10 @@
-My name is Yunlong Xing. I am currently a Ph.D. Candidate in the [Center for Secure Information Systems (CSIS)][Center for Secure Information Systems (CSIS)] at [George Mason University][George Mason University], under the supervision of [Dr. Kun Sun][Dr. Kun Sun]. Before that, I received a Master's Degree in Engineering in June 2021 at [Wuhan University][Wuhan University], majoring in Cyberspace Security, under the supervision of [Dr. Fei Yan][Dr. Fei Yan]. And I obtained a Bachelor's Degree in Engineering in June 2018 from [Wuhan University][Wuhan University], focusing on Information Security. My research interests lie primarily in the fields of Automatic Program Repair (APR), Software and System Security, and LLM-Assisted Security.
+I will join Michigan Technological University as a tenure-track Assistant Professor in August 2026. I received my Ph.D. in Information Technology from [George Mason University][George Mason University], where I was advised by [Dr. Kun Sun][Dr. Kun Sun].  
+Before that, I earned my M.Eng. in Cyberspace Security (2021) and B.Eng. in Information Security (2018) from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan].  
+My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Container Security, and the use of Large Language Models (LLMs) for Security.
 
-<span style="color:red">I will join Michigan Technological University as a tenure-track Assistant Professor in August 2026 and am currently seeking highly motivated Ph.D. students. Positions come with full financial support through research assistantships (RA). Please email your CV and transcript if you are interested. </span>
+<span style="color:red">I am currently looking for highly motivated Ph.D. students to join my research group. Positions are fully funded through research assistantships (RAs), covering tuition and providing a competitive stipend. If you are interested, please feel free to email me your CV and transcript.</span>
 
-[Center for Secure Information Systems (CSIS)]: https://csis.gmu.edu/
+
 [George Mason University]: https://www2.gmu.edu/
 [Dr. Kun Sun]: https://csis.gmu.edu/ksun/
 [Dr. Fei Yan]: https://cse.whu.edu.cn/info/3301/37361.htm
