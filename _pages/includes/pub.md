@@ -1,4 +1,4 @@
-# Selected Publications [\[Full Publications\]](https://scholar.google.com/citations?user=H9E5GxsAAAAJ&hl=en)
+# Selected Publications
 ## Conference Papers
 - ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [paper]<br>
 Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Therese Schachner, and Zhiheng Tao. <br>
@@ -39,10 +39,6 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 *International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Limassol, Cyprus, 2022*.<br>
 (Acceptance Rate: 35/139 = 25.2%)
 
-- ``CTCIS 2017`` **Research on Cryptographic Algorithm Recognition Based on Behavior Analysis** [\[paper\]](https://doi.org/10.1007/978-981-10-7080-8_25)<br>
-Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
-*Chinese Conference on Trusted Computing and Information Security (CTCIS), Wuhan, China, 2017*.
-
 ## Journal Papers
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](https://ieeexplore.ieee.org/document/10105304)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
@@ -53,17 +49,3 @@ Fei Yan, **Yunlong Xing**, Shiwei Zhang, Zhihan Yue, and Yamin Zheng.<br>
 **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, and Shengye Wan.<br>
 *Future Generation Computer Systems (FGCS), 2022*.<br>
 \(Impact Factor: 7.3 as 2022\)
-
-- **Container Security Protection Scheme Based on System Call Restriction** [\[paper\]](https://doi.org/10.14188/j.1671-8836.2021.0049)<br>
-**Yunlong Xing**, Fei Yan, Yanxiao Liu, and Liqiang Zhang.<br>
-*Journal of Wuhan University (Natural Science Edition), 2021 (in Chinese)*.  
-
-
-// ## Posters
-// - ``CCS 2024`` **Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model** [\[paper\]](https://dl.acm.org/doi/10.1145/3658644.3691412)<br>
-// Elisa Zhang, Shiyu Sun, **Yunlong Xing**, and Kun Sun. <br>
-// *ACM Conference on Computer and Communications Security (CCS), Salt Lake City, UT, 2024.*
-
-// - ``TAPIA 2024`` **DISPATCH: Entangled Security Patch Unravelment in Open-Source Software** <br>
-// Shiyu Sun, **Yunlong Xing**, Xinda Wang, and Kun Sun. <br>
-// *CMD-IT/ACM Richard Tapia Conference, San Diego, CA, 2024*.
