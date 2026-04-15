@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunlong Xing"
-description              : "Ph.D. Candidate in the Center for Secure Information Systems, George Mason University"
+description              : "Incoming Assistant Professor, Michigan Technological University"
 repository               : "YunlongXing/yunlongxing.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yunlong Xing"
   avatar           : "images/avatar.jpg"
   bio              : 
-  location         : "Fairfax, VA"
+  location         : "Houghton, MI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H9E5GxsAAAAJ&hl=en"
