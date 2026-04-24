@@ -2,8 +2,19 @@ I will join [Michigan Technological University][Michigan Technological Universit
 
 <span style="color:red">I am currently looking for highly motivated Ph.D. students to join my research group. Positions are fully funded through research assistantships (RAs), covering tuition and providing a competitive stipend. If you are interested, please feel free to email me your CV and transcript.</span>
 
+
+# ✨ What’s New
+- **[March 2026]** One paper about container privilege configuration was accepted by SecureComm 2026.
+- **[Apirl 2025]** One paper about multi-language security patch analysis was accepted by DIMVA 2025.
+- **[March 2025]** Summer Research Assistantship of George Mason University was awarded.
+- **[February 2025]** One paper about security patch unraveling was accepted by USENIX Security 2025.
+- **[October 2024]** The paper about context-aware patch generation was selected as one of the 15 finalists of the CSAW 2024 ARC.
+- **[September 2023]** One paper about context-aware patch generation was accepted by USENIX Security 2024.
+
+
 [Michigan Technological University]: https://www.mtu.edu/
 [George Mason University]: https://www2.gmu.edu/
 [Dr. Kun Sun]: https://csis.gmu.edu/ksun/
 [Dr. Fei Yan]: https://cse.whu.edu.cn/info/3301/37361.htm
 [Wuhan University]: https://en.whu.edu.cn/
+
