@@ -3,7 +3,7 @@ I will join [Michigan Technological University][Michigan Technological Universit
 <span style="color:red">I am currently looking for highly motivated Ph.D. students to join my research group. Positions are fully funded through research assistantships (RAs), covering tuition and providing a competitive stipend. If you are interested, please feel free to email me your CV and transcript.</span>
 
 
-# ✨ What’s New
+# ✨ <span style="color: darkred;">What’s New</span>
 - **[SecureComm 2026]** In March 2026, one paper about container privilege configuration was accepted by SecureComm 2026.
 - **[DIMVA 2025]** In April 2025, one paper about multi-language security patch analysis was accepted by DIMVA 2025.
 - **[Summer Research Assistantship]** In March 2025, the Summer Research Assistantship of George Mason University was awarded.
