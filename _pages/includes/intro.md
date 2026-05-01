@@ -2,10 +2,9 @@ I will join [Michigan Technological University][Michigan Technological Universit
 
 <div style="background-color:#e6f4ea; border-left:5px solid #34a853; padding:12px; border-radius:6px;">
   <strong>All in the use of Large Language Models (LLMs) for Security</strong><br>
-  In the era of LLMs, I focus on leveraging LLMs and agentic AI to advance the full pipeline of software and systems security, including vulnerability detection, reasoning, patch generation, and verification.
-</div>
+  In the era of LLMs, I focus on leveraging LLMs and agentic AI to advance the full pipeline of software and systems security, including vulnerability detection, reasoning, patch generation, and verification.  
+</div>  
 
-<br>
 <span style="color:red">I am currently looking for highly motivated Ph.D. students to join my research group. Positions are fully funded through research assistantships (RAs), covering tuition and providing a competitive stipend. If you are interested, please feel free to email me your CV and transcript.</span>
 
 
