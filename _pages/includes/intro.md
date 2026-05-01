@@ -1,8 +1,8 @@
 I will join [Michigan Technological University][Michigan Technological University] as a tenure-track Assistant Professor in August 2026. I received my Ph.D. in Information Technology (2026) from [George Mason University][George Mason University], where I was advised by [Dr. Kun Sun][Dr. Kun Sun]. Before that, I earned my M.Eng. in Cyberspace Security (2021) and B.Eng. in Information Security (2018) from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan]. My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Sanitization Optimization, and Container Security.
 
 <div style="background-color:#e6f4ea; border-left:6px solid #2ea44f; padding:14px 16px; border-radius:8px; margin-bottom:10px; line-height:1.6;">
-  <strong>All in the Use of Large Language Models (LLMs) for Security</strong><br>
-  In the era of LLMs, I focus on leveraging LLMs and agentic AI to advance the full pipeline of software and systems security, including vulnerability detection, reasoning, patch generation, and verification.
+  <strong>All in on Large Language Models (LLMs) for Security</strong><br>
+  In the era of LLMs, I focus on leveraging LLMs and agentic AI to advance the end-to-end pipeline of software and systems security, including vulnerability detection, reasoning, patch generation, and verification.
 </div>
 
 <span style="color:red">I am currently looking for highly motivated Ph.D. students to join my research group. Positions are fully funded through research assistantships (RAs), covering tuition and providing a competitive stipend. If you are interested, please feel free to email me your CV and transcript.</span>
