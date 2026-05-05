@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Yunlong Xing"
   avatar           : "images/avatar.jpg"
-  bio              : |
+  bio              : >
     Assistant Professor
     Michigan Technological University
   location         : "Houghton, MI"
