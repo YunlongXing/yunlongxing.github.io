@@ -108,6 +108,25 @@ h1:before, .anchor:before {
     font-size: 1em;
 }
 
+
+
+.sidebar {
+  float: none !important;
+  width: 100% !important;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.sidebar.sticky {
+  position: static !important;
+}
+
 .author__avatar img {
-  border-radius: 0;
+  max-width: 180px;
+  border-radius: 50%;
+}
+
+#main {
+  max-width: 900px;
+  margin: 0 auto;
 }
