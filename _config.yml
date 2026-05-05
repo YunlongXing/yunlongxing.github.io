@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Yunlong Xing"
-description              : "Incoming Assistant Professor, Michigan Technological University"
+description              : >
+Assistant Professor, 
+Michigan Technological University
 repository               : "YunlongXing/yunlongxing.github.io"
 google_scholar_stats_use_cdn : true
 
