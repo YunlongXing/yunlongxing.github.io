@@ -23,9 +23,9 @@ baidu_site_verification  :
 author:
   name             : "Yunlong Xing"
   avatar           : "images/avatar.jpg"
-  bio              : >
-    Assistant Professor,
-    College of Computing,
+  bio              : |
+    Assistant Professor,  
+    College of Computing,  
     Michigan Technological University
   location         : "Houghton, MI"
   employer         :
