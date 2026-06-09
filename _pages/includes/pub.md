@@ -7,7 +7,7 @@ Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Theres
 - ``USENIX Security 2025`` **DISPATCH: Unraveling Security Patches from Entangled Code Changes** [\[paper\]](/publications/security25_DISPATCH.pdf)<br>
 Shiyu Sun\*, **Yunlong Xing\***, Xinda Wang, Shu Wang, Qi Li, and Kun Sun. <br>
 *In 34th USENIX Security Symposium (USENIX Security), Seattle, WA, 2025*.<br>
-\(**\***: co-first authors\)
+[**\***: co-first authors]
 
 - ``DIMVA 2025`` **An Empirical Study of Multi-Language Security Patches in Open Source Software** [\[paper\]](/publications/dimva25_Empirical.pdf)<br>
 Shiyu Sun, **Yunlong Xing**, Grant Zou, Xinda Wang, and Kun Sun.<br>
@@ -38,7 +38,7 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](https://ieeexplore.ieee.org/document/10105304)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
-\(**\***: co-first authors\) \(Impact Factor: 7 as 2023\)
+[**\***: co-first authors] \(Impact Factor: 7 as 2023\)
 
 - ``FGCS 2022`` **The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp** [\[paper\]](/publications/fgcs22_Syscall.pdf)<br>
 **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, and Shengye Wan.<br>
