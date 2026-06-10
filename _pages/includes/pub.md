@@ -1,6 +1,6 @@
 # Selected Publications
 ### Conference Papers
-- ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [paper]<br>
+- ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [\[paper\]](/publications/securecomm26_ConfigWiz.pdf)<br>
 Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Therese Schachner, and Zhiheng Tao. <br>
 *In 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026*.
 
