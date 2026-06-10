@@ -35,7 +35,7 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 *International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Limassol, Cyprus, 2022*.
 
 ### Journal Papers
-- ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](https://ieeexplore.ieee.org/document/10105304)<br>
+- ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](/publications/tdsc23_Hybrid.pdf)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
 [\*: co-first authors]
