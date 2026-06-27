@@ -1,4 +1,4 @@
-I am an Assistant Professor in the College of Computing at [Michigan Technological University][Michigan Technological University]. I received my Ph.D. in Information Technology from [George Mason University][George Mason University], advised by [Dr. Kun Sun][Dr. Kun Sun]. Before that, I earned my M.Eng. in Cyberspace Security and B.Eng. in Information Security from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan]. My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Sanitization Optimization, and Container Security.
+I am an Assistant Professor in the [College of Computing][College of Computing] at [Michigan Technological University][Michigan Technological University]. I received my Ph.D. in Information Technology from [George Mason University][George Mason University], advised by [Dr. Kun Sun][Dr. Kun Sun]. Before that, I earned my M.Eng. in Cyberspace Security and B.Eng. in Information Security from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan]. My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Sanitization Optimization, and Container Security.
 
 <div style="background-color:#e6f4ea; border-left:6px solid #2ea44f; padding:14px 16px; border-radius:8px; margin-bottom:8px; line-height:1.6;">
   <strong>All in on Large Language Models (LLMs) for Security</strong><br>
@@ -16,7 +16,7 @@ I am an Assistant Professor in the College of Computing at [Michigan Technologic
 - **[CSAW 2024]** In October 2024, the context-aware patch generation paper was selected as one of the 15 finalists of the CSAW 2024 ARC.
 - **[USENIX Security 2024]** In September 2023, one paper about context-aware patch generation was accepted by USENIX Security 2024.
 
-
+[College of Computing]: https://www.mtu.edu/computing/
 [Michigan Technological University]: https://www.mtu.edu/
 [George Mason University]: https://www2.gmu.edu/
 [Dr. Kun Sun]: https://csis.gmu.edu/ksun/
