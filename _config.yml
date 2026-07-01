@@ -7,9 +7,8 @@
 
 # Site Settings
 title                    : "Yunlong Xing"
-description              : ""
+description              : "Assistant Professor at Michigan Technological University working on software and systems security, automated program repair, LLMs for security, and container security."
 repository               : "YunlongXing/yunlongxing.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : G-EFVFZB1ZD9
@@ -30,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H9E5GxsAAAAJ&hl=en"
-  email            : "Yunlong Xing <yuxing@mtu.edu>"
+  email            : "yuxing@mtu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -65,7 +64,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -90,7 +88,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - google_scholar_crawler
   - github_myprofile_updater
 keep_files:
   - .git
@@ -137,7 +134,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

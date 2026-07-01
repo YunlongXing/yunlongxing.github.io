@@ -1,5 +1,5 @@
 # Talks and Presentations
-- **Toward  Smarter Memory Safety Automation: From Traditional APR to LLM-Assisted Frameworks**<br>
+- **Toward Smarter Memory Safety Automation: From Traditional APR to LLM-Assisted Frameworks**<br>
 *AI Club at George Mason University, Fairfax, VA, November 2025.*
 
 - **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[slides\]](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-yunlong)<br>
