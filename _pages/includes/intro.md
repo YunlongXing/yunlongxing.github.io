@@ -1,7 +1,7 @@
 I am an Assistant Professor in the [College of Computing][College of Computing] at [Michigan Technological University][Michigan Technological University]. I received my Ph.D. in Information Technology from [George Mason University][George Mason University], advised by [Dr. Kun Sun][Dr. Kun Sun]. Before that, I earned my M.S. in Cyberspace Security and B.S. in Information Security from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan]. My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Sanitization Optimization, and Container Security.
 
 <div style="background-color:#e6f4ea; border-left:6px solid #2ea44f; padding:14px 16px; border-radius:8px; margin-bottom:8px; line-height:1.6;">
-  <strong>All in on Large Language Models (LLMs) for Security</strong><br>
+  <strong>LLM-Driven Software and Systems Security</strong><br>
   In the era of LLMs, I focus on leveraging LLMs and agentic AI to advance the end-to-end pipeline of software and systems security, including vulnerability detection, reasoning, patch generation, and verification.
 </div>
 
