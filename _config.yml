@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunlong Xing"
-description              : "Assistant Professor at Michigan Technological University working on software and systems security, automated program repair, LLMs for security, and container security."
+description              : ""
 repository               : "YunlongXing/yunlongxing.github.io"
 
 # google analytics
@@ -23,7 +23,8 @@ author:
   name             : "Yunlong Xing"
   avatar           : "images/avatar.jpg"
   bio              : |
-    Assistant Professor,  
+    Assistant Professor,
+    College of Computing,
     Michigan Technological University
   location         : "Houghton, MI"
   employer         :
