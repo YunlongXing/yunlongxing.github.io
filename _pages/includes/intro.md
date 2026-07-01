@@ -5,14 +5,6 @@ I am an Assistant Professor in the [College of Computing][College of Computing] 
   In the era of LLMs, I focus on leveraging LLMs and agentic AI to advance the end-to-end pipeline of software and systems security, including vulnerability detection, reasoning, patch generation, and verification.
 </div>
 
-<div class="research-interests">
-  <strong>Research Interests</strong>
-  <span>LLM for Security</span>
-  <span>Program Repair</span>
-  <span>Container Security</span>
-  <span>Patch Analysis</span>
-</div>
-
 <span style="color:red">I am currently looking for highly motivated Ph.D. students to join my research group. Positions are fully funded through research assistantships (RAs), covering tuition and providing a competitive stipend. If you are interested, please feel free to email me your CV and transcript.</span>
 
 
