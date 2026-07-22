@@ -1,4 +1,5 @@
 # Honors and Awards
+- **Best Paper Award** of SecureComm (2026)
 - **Summer Research Assistantship** of George Mason University (2025)
 - **Top 15 Finalists** of NYU CSAW Applied Research Competition (2024)
 - **33rd USENIX Security Symposium** Student Travel Grant (2024)
