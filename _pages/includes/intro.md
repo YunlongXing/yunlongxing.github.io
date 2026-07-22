@@ -9,7 +9,7 @@ I am an Assistant Professor in the [College of Computing][College of Computing] 
 
 
 # <span style="color: darkred;">What’s New?</span>
-- **[Best Paper Award]** In July 2026, our paper titled "ConfigWiz: Automating Privilege Configuration for Containerized Applications" won the Best Papers Award in SecureComm 2026.
+- **[Best Paper Award]** In July 2026, our paper titled "ConfigWiz: Automating Privilege Configuration for Containerized Applications" won the Best Paper Award in SecureComm 2026.
 - **[SecureComm 2026]** In March 2026, one conference paper titled "ConfigWiz: Automating Privilege Configuration for Containerized Applications" was accepted by SecureComm 2026.
 - **[DIMVA 2025]** In April 2025, one conference paper titled "An Empirical Study of Multi-Language Security Patches in Open Source Software" was accepted by DIMVA 2025.
 - **[Summer Research Assistantship]** In March 2025, the Summer Research Assistantship was awarded by George Mason University.
