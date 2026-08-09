@@ -1,5 +1,7 @@
 
 # Academic Services
+- **Technical Program Committee**
+  - Network and Distributed System Security Symposium (**NDSS**) (2027)
 - **Artifacts Evaluation Committee**
   - Annual Computer Security Applications Conference (**ACSAC**) (2023/2024)
 - **Conference Reviewer**
