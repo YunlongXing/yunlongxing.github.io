@@ -9,13 +9,14 @@ I am an Assistant Professor in the [College of Computing][College of Computing] 
 
 
 # <span style="color: darkred;">What’s New?</span>
-- **[Best Paper Award]** In July 2026, our paper titled "ConfigWiz: Automating Privilege Configuration for Containerized Applications" won the Best Paper Award in SecureComm 2026.
-- **[SecureComm 2026]** In March 2026, one paper titled "ConfigWiz: Automating Privilege Configuration for Containerized Applications" was accepted by SecureComm 2026.
-- **[DIMVA 2025]** In April 2025, one paper titled "An Empirical Study of Multi-Language Security Patches in Open Source Software" was accepted by DIMVA 2025.
-- **[Summer Research Assistantship]** In March 2025, the Summer Research Assistantship was awarded by George Mason University.
-- **[USENIX Security 2025]** In February 2025, one paper titled "DISPATCH: Unraveling Security Patches from Entangled Code Changes" was accepted by USENIX Security 2025.
-- **[CSAW 2024]** In October 2024, our paper titled "What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check" was selected as one of the 15 finalists of the CSAW 2024 Applied Research Competition.
-- **[USENIX Security 2024]** In September 2023, one paper titled "What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check" was accepted by USENIX Security 2024.
+- **[NDSS 2027 TPC]** In August 2026, invited to serve in the TPC for NDSS 2027.
+- **[Best Paper Award]** In July 2026, our paper "ConfigWiz: Automating Privilege Configuration for Containerized Applications" won the Best Paper Award in SecureComm 2026.
+- **[SecureComm 2026]** In March 2026, one paper "ConfigWiz: Automating Privilege Configuration for Containerized Applications" accepted by SecureComm 2026.
+- **[DIMVA 2025]** In April 2025, one paper "An Empirical Study of Multi-Language Security Patches in Open Source Software" accepted by DIMVA 2025.
+- **[Summer Research Assistantship]** In March 2025, the Summer Research Assistantship of George Mason University awarded.
+- **[USENIX Security 2025]** In February 2025, one paper "DISPATCH: Unraveling Security Patches from Entangled Code Changes" accepted by USENIX Security 2025.
+- **[CSAW 2024]** In October 2024, our paper "What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check" selected as one of the 15 finalists of the CSAW 2024 Applied Research Competition.
+- **[USENIX Security 2024]** In September 2023, one paper "What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check" accepted by USENIX Security 2024.
 
 [College of Computing]: https://www.mtu.edu/computing/
 [Michigan Technological University]: https://www.mtu.edu/
