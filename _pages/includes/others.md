@@ -15,6 +15,7 @@
   - Computers & Security (2023/2024/2025/2026)
   - Discrete Mathematics, Algorithms and Applications (**DMAA**) (2025/2026)
   - ACM Digital Threats: Research and Practice (**DTRAP**) (2026)
+  - Journal of Systems Architecture (**JSA**) (2026)
 - **External Reviewer**
   - IEEE Symposium on Security and Privacy (**S&P**) (2025)
   - Network and Distributed System Security Symposium (**NDSS**) (2024)
