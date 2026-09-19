@@ -49,7 +49,7 @@ Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing C
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](/publications/tdsc23_Hybrid.pdf)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
 *IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
-[\*: co-first authors]
+(\*: co-first authors)
 
 - ``FGCS 2022`` **The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp** [\[paper\]](/publications/fgcs22_Syscall.pdf)<br>
 **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, and Shengye Wan.<br>
