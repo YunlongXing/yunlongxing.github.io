@@ -9,6 +9,7 @@ I am an Assistant Professor in the [College of Computing][College of Computing] 
 
 
 # <span style="color: darkred;">What’s New?</span>
+- **[ATC 2026]** In September 2026, our paper "DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination" accepted by ACM SIGOPS ATC 2026 (*p.k.a. USENIX ATC*).
 - **[NDSS 2027 TPC]** In August 2026, invited to serve in the TPC for NDSS 2027.
 - **[Best Paper Award]** In July 2026, our paper "ConfigWiz: Automating Privilege Configuration for Containerized Applications" won the Best Paper Award in SecureComm 2026.
 - **[SecureComm 2026]** In March 2026, one paper "ConfigWiz: Automating Privilege Configuration for Containerized Applications" accepted by SecureComm 2026.
