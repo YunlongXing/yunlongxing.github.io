@@ -1,5 +1,11 @@
 # Selected Publications
 ### Conference Papers
+
+- ``ATC 2026`` **DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination** [paper]<br>
+**Yunlong Xing**, Shiyu Sun, and Kun Sun. <br>
+*In 2026 ACM SIGOPS Annual Technical Conference (ATC), Hong Kong, China, 2026*.<br>
+(Acceptance Rate = 135 / 973 = 13.9%)
+
 - ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [\[paper\]](/publications/securecomm26_ConfigWiz.pdf)<br>
 Mohammad Kavousi, Hui Xue, Yan Chen, Xin Chen, **Yunlong Xing**, Kun Sun, Therese Schachner, and Zhiheng Tao. <br>
 *In 22nd EAI International Conference on Security and Privacy in Communication Networks (SecureComm), Lancaster, UK, 2026*.<br>
