@@ -3,7 +3,7 @@
 
 - ``ACM SIGOPS ATC 2026`` **DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination** [paper]<br>
 **Yunlong Xing**, Shiyu Sun, and Kun Sun. <br>
-*In 2026 ACM SIGOPS Annual Technical Conference (ATC), Hong Kong, China, 2026*.<br>
+*In ACM SIGOPS Annual Technical Conference (ATC), Hong Kong, China, 2026*.<br>
 (Acceptance Rate = 135 / 973 = 13.9%)
 
 - ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [\[paper\]](/publications/securecomm26_ConfigWiz.pdf)<br>
