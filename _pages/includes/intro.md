@@ -1,4 +1,4 @@
-I am an Assistant Professor in the [College of Computing][College of Computing] at [Michigan Technological University][Michigan Technological University]. I received my Ph.D. in Information Technology from [George Mason University][George Mason University], advised by [Dr. Kun Sun][Dr. Kun Sun]. Before that, I earned my M.S. in Cyberspace Security and B.S. in Information Security from [Wuhan University][Wuhan University], advised by [Dr. Fei Yan][Dr. Fei Yan]. My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Sanitization Optimization, and Container Security.
+I am an Assistant Professor in the [College of Computing][College of Computing] at [Michigan Technological University][Michigan Technological University]. I received my Ph.D. in Information Technology from [George Mason University][George Mason University], advised by [Dr. Kun Sun][Dr. Kun Sun]. Before that, I earned my M.S. in Cyberspace Security and B.S. in Information Security, both from [Wuhan University][Wuhan University]. My research lies in Software and Systems Security, with a focus on Automated Program Repair (APR), Sanitization Optimization, and Container Security.
 
 <div style="background-color:#e6f4ea; border-left:6px solid #2ea44f; padding:14px 16px; border-radius:8px; margin-bottom:8px; line-height:1.6;">
   <strong>LLM-Driven Software and Systems Security</strong><br>
@@ -9,7 +9,7 @@ I am an Assistant Professor in the [College of Computing][College of Computing] 
 
 
 # <span style="color: darkred;">What’s New?</span>
-- **[ACM SIGOPS ATC 2026]** In September 2026, our paper "DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination" accepted by ACM SIGOPS ATC 2026 (*p.k.a. USENIX ATC*).
+- **[ACM SIGOPS ATC 2026]** In September 2026, our paper "DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination" accepted by ACM SIGOPS ATC 2026 *(p.k.a. USENIX ATC)*.
 - **[NDSS 2027 TPC]** In August 2026, invited to serve in the TPC for NDSS 2027.
 - **[Best Paper Award]** In July 2026, our paper "ConfigWiz: Automating Privilege Configuration for Containerized Applications" won the Best Paper Award in SecureComm 2026.
 - **[SecureComm 2026]** In March 2026, one paper "ConfigWiz: Automating Privilege Configuration for Containerized Applications" accepted by SecureComm 2026.
