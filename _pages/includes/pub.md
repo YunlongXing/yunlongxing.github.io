@@ -3,7 +3,7 @@
 
 - ``ACM SIGOPS ATC 2026`` **DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination** [paper]<br>
 **Yunlong Xing**, Shiyu Sun, and Kun Sun. <br>
-*In ACM SIGOPS Annual Technical Conference (ATC), Hong Kong, China, 2026*.<br>
+*In the ACM SIGOPS Annual Technical Conference (ATC), Hong Kong, China, 2026*.<br>
 (Acceptance Rate: 135 / 973 = 13.9%)
 
 - ``SecureComm 2026`` **ConfigWiz: Automating Privilege Configuration for Containerized Applications** [\[paper\]](/publications/securecomm26_ConfigWiz.pdf)<br>
@@ -33,25 +33,25 @@ Yi He, Roland Guo, **Yunlong Xing**, Xijia Che, Kun Sun, Zhuotao Liu, Ke Xu, and
 
 - ``ICSME 2023`` **Exploring Security Commits in Python** [\[paper\]](/publications/icsme23_SCOPY.pdf)<br>
 Shiyu Sun, Shu Wang, Xinda Wang, **Yunlong Xing**, Elisa Zhang, and Kun Sun.<br>
-*In IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogotá, Colombia, 2023*.<br>
+*In the IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogotá, Colombia, 2023*.<br>
 (Acceptance Rate: 27 / 119 = 22.7%)
 
 - ``CNS 2022`` **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images** [\[paper\]](/publications/cns22_SysCap.pdf)<br>
 **Yunlong Xing**, Jiahao Cao, Xinda Wang, Sadegh Torabi, Kun Sun, Fei Yan, and Qi Li.<br>
-*In IEEE Conference on Communications and Network Security (CNS), Austin, TX, 2022*.
+*In the IEEE Conference on Communications and Network Security (CNS), Austin, TX, 2022*.
 
 - ``RAID 2022`` **BinProv: Binary Code Provenance Identification without Disassembly** [\[paper\]](/publications/raid22_BinProv.pdf)<br>
 Xu He, Shu Wang, **Yunlong Xing**, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun.<br>
-*In International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Limassol, Cyprus, 2022*.<br>
+*In the International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Limassol, Cyprus, 2022*.<br>
 (Acceptance Rate: 35 / 139 = 25.2%)
 
 ### Journal Papers
 - ``TDSC 2023`` **A Hybrid System Call Profiling Approach for Container Protection** [\[paper\]](/publications/tdsc23_Hybrid.pdf)<br>
 **Yunlong Xing\***, Xinda Wang\*, Sadegh Torabi, Zeyu Zhang, Lingguang Lei, and Kun Sun.<br>
-*In IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
+*In the IEEE Transactions on Dependable and Secure Computing (TDSC), 2023*.<br>
 (Impact Factor: 7 as of 2023, \*: co-first authors)
 
 - ``FGCS 2022`` **The Devil is in the Detail: Generating System Call Whitelist for Linux Seccomp** [\[paper\]](/publications/fgcs22_Syscall.pdf)<br>
 **Yunlong Xing**, Jiahao Cao, Kun Sun, Fei Yan, and Shengye Wan.<br>
-*In Future Generation Computer Systems (FGCS), 2022*.<br>
+*In the Future Generation Computer Systems (FGCS), 2022*.<br>
 (Impact Factor: 7.3 as of 2022)
