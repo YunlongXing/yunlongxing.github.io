@@ -1,16 +1,16 @@
 # Talks and Presentations
 - **Toward Smarter Memory Safety Automation: From Traditional APR to LLM-Assisted Frameworks**<br>
-*AI Club at George Mason University, Fairfax, VA, November 2025.*
+*In the AI Club at George Mason University, Fairfax, VA, November 2025.*
 
 - **What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check** [\[slides\]](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-yunlong)<br>
-*In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, August 2024*.<br>
-*In 21st NYU CSAW Applied Research Competition, Brooklyn, NY, November 2024.*
+*In the 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, August 2024*.<br>
+*In the 21st NYU CSAW Applied Research Competition, Brooklyn, NY, November 2024.*
 
 - **Cross Container Attacks: The Bewildered eBPF on Clouds** [\[slides\]](https://www.usenix.org/system/files/sec23_slides_he.pdf)<br>
-*In 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023*.
+*In the 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023*.
 
 - **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images** [\[slides\]](/publications/cns22_SysCap_slides.pdf)<br>
-*IEEE Conference on Communications and Network Security (CNS), Austin, TX, October 2022*.
+*In IEEE Conference on Communications and Network Security (CNS), Austin, TX, October 2022*.
 
 
 # Teaching
