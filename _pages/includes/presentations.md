@@ -10,7 +10,7 @@
 *In the 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023*.
 
 - **SysCap: Profiling and Crosschecking Syscall and Capability Configurations for Docker Images** [\[slides\]](/publications/cns22_SysCap_slides.pdf)<br>
-*In IEEE Conference on Communications and Network Security (CNS), Austin, TX, October 2022*.
+*In the IEEE Conference on Communications and Network Security (CNS), Austin, TX, October 2022*.
 
 
 # Teaching
