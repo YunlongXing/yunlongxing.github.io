@@ -1,7 +1,7 @@
 # Selected Publications
 ### Conference Papers
 
-- ``ACM SIGOPS ATC 2026`` **DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination** [paper]<br>
+- ``ACM SIGOPS ATC 2026`` **DESAN: READ/WRITE-Aware Redundant Sanitizer Check Elimination** [\[paper\]](/publications/atc26_DESAN.pdf)<br>
 **Yunlong Xing**, Shiyu Sun, and Kun Sun. <br>
 *In the ACM SIGOPS Annual Technical Conference (ATC), Hong Kong, China, 2026*.<br>
 (Acceptance Rate: 135 / 973 = 13.9%)
