@@ -14,4 +14,5 @@
 
 
 # Teaching
+- CS 5090 / SAT 5980 AI Security (Spring 2027)
 - SAT 3812 Cyber Security I (Fall 2026)
